@@ -1,12 +1,44 @@
-# React + Vite
+# Astro League
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
 
-## Expanding the ESLint configuration
+3D Astro League is a 3D space game developed with three.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Contact](#contact)
+- [Link](#link)
+
+## Installation
+
+npm install
+
+## Usage
+
+QuickPlay
+
+## Credits
+
+Arun Mundackal
+
+## Features
+
+Three.js
+
+## Contact
+For any questions or inquiries, please reach out to me:
+- Email: arunmundackal7@gmail.com
+- GitHub: [GenjutsYou](https://github.com/GenjutsYou)
+
+## Link
+
+[Astro League](https://github.com/GenjutsYou/astro-league)
